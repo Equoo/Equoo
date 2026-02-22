@@ -1,8 +1,9 @@
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
+![Staticf Badge](http://37.59.106.4/newfeur.png)
+
 <table>
 <tr>
 <td width="50%" valign="top">
-
 ### Systems
 
 ![Static Badge](http://37.59.106.4/feur.png)
