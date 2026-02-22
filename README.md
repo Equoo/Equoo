@@ -1,12 +1,12 @@
 
-![Staticf Badge](http://37.59.106.4/header2.png)
+![Staticf Badge](http://37.59.106.4/header_placeholder.png)
 
 <table>
 <td width="50%" valign="top">
 
 ## About me
 
-Yup it's me
+Yup it's me ;)
 
 </td>
 <td width="50%" valign="top">
@@ -16,16 +16,13 @@ Yup it's me
 </td>
 </table>
 
-<div style="background-color:#111; padding:15px; border-radius:8px;">
-  <b style="color:#00ff88;">SYSTEM STATUS</b><br/>
-  focus : systems<br/>
-  os    : Arch Linux
-</div>
+## Repositories
 
-<details>
-<summary><b>Systems Projects</b></summary>
+### Personnal Project
+-
 
-- minishell
-- libc
+### 42 Cursus
+-
 
-</details>
+### For 42 students
+-
