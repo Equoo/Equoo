@@ -1,5 +1,3 @@
-![Static Badge](http://37.59.106.4/feur.png)
-![Static Badge](http://37.59.106.4/feur.png)
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
 <table>
 <tr>
@@ -7,6 +5,7 @@
 
 ### Systems
 
+![Static Badge](http://37.59.106.4/feur.png)
 - minishell  
 - libc  
 
@@ -15,6 +14,7 @@
 
 ### Backend
 
+![Static Badge](http://37.59.106.4/feur.png)
 - daemon  
 - web app  
 
