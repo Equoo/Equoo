@@ -6,7 +6,22 @@
 
 ## About me
 
-Yup it's me ;)
+I am a software developer with a strong foundation in low-level programming and system design.
+Currently a student at 42, I focus on building efficient, reliable, and well-structured software.
+
+My work is driven by a deep interest in:
+
+Systems programming
+
+Performance-oriented design
+
+Backend development
+
+Software architecture
+
+I particularly enjoy understanding how things work under the hood — from memory management in C to building complete tools from scratch.
+
+I value clean code, clarity, and robustness.
 
 </td>
 <td width="50%" valign="top">
