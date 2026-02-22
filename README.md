@@ -1,26 +1,19 @@
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
-![Staticf Badge](http://37.59.106.4/newfeur.png)
+
+![Staticf Badge](http://37.59.106.4/header.png)
 
 <table>
-<tr>
 <td width="50%" valign="top">
-### Systems
 
-![Static Badge](http://37.59.106.4/feur.png)
-- minishell  
-- libc  
+## About me
+
+Yup it's me
 
 </td>
 <td width="50%" valign="top">
 
-### Backend
-
-![Static Badge](http://37.59.106.4/feur.png)
-- daemon  
-- web app  
-
+![Static Badge](http://37.59.106.4/arkhaipxls.png)
+[ArkhaiPxls](https://x.com/ArkhaiPxls)
 </td>
-</tr>
 </table>
 
 <div style="background-color:#111; padding:15px; border-radius:8px;">
