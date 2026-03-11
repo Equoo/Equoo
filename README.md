@@ -33,11 +33,21 @@ I value clean code, clarity, and robustness.
 
 ## Repositories
 
-### Personnal Project
--
-
 ### 42 Cursus
--
+- [Libft](https://github.com/Equoo/42-libft) - My own LIBC, a handcrafted reimplementation of the C standard library and more. Used as base for many 42 projects using C.
+- [So_Long](https://github.com/Equoo/42-so_long) - A 2D game in C with only a basic pixel drawing library — collect items, find the exit, minimum moves required.
+- [Cub3D](https://github.com/Equoo/42-cub3d) - A raycasting-based 3D maze engine built in C, inspired by Wolfenstein 3D.
+- [Philosophers](https://github.com/Equoo/42-philosophers) - A multithreading exercise in C simulating the Dining Philosophers problem — race conditions, mutexes, and deadlock prevention.
+
+### Personnal Project
+- []
 
 ### For 42 students
--
+- [STD Games](https://github.com/Equoo/STDGames) - A multi-service project that enables 42 students to launch games instantly — no downloads, no configuration, no login required.
+- [Valgrind Breaker](https://github.com/Equoo/valgrind_breaker) - A C development tool built for 42 School projects, extending Valgrind's native memory checking with allocation failure simulation.
+- [42Lyon_BetterMatrixExtension](https://github.com/Equoo/42Lyon_BetterMatrixExtension) - An extension adding utility features to an existing 42Lyon student tool for monitoring computer states.
+
+### Contributions
+- [Goldberg Updated Steamemu](https://github.com/Equoo/Goldberg-Updated-Steamemu) - An updated fork of the Goldberg Steam Emulator, upgraded to Steamworks SDK 1.58. (Archived)
+- [lgx2userspace](https://github.com/Equoo/lgx2userspace) - Userspace driver for LGX2 devices. Updated compilations tools
+- [42norm](https://github.com/MoulatiMehdi/42norm.nvim) - Fix a little bugs.
