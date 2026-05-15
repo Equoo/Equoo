@@ -38,9 +38,10 @@ I value clean code, clarity, and robustness.
 - [So_Long](https://github.com/Equoo/42-so_long) - A 2D game in C with only a basic pixel drawing library — collect items, find the exit, minimum moves required.
 - [Cub3D](https://github.com/Equoo/42-cub3d) - A raycasting-based 3D maze engine built in C, inspired by Wolfenstein 3D.
 - [Philosophers](https://github.com/Equoo/42-philosophers) - A multithreading exercise in C simulating the Dining Philosophers problem — race conditions, mutexes, and deadlock prevention.
+- [ft_irc](https://github.com/Pulse-rar/ft_irc) - An IRC server in c++, the discord ancestor.
 
 ### Personnal Project
-- []
+- [http3fs](https://github.com/Equoo/http3fs) - A HTTP/3 client library for secure, mountless remote filesystem access over QUIC.
 
 ### For 42 students
 - [STD Games](https://github.com/Equoo/STDGames) - A multi-service project that enables 42 students to launch games instantly — no downloads, no configuration, no login required.
