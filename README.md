@@ -18,6 +18,8 @@ What I like working on:
 
 I enjoy understanding how things work under the hood, from memory management in C to building complete tools from scratch.
 
+Contact: david.derny@ik.me
+
 </td>
 <td width="50%" valign="top">
 
@@ -29,7 +31,7 @@ I enjoy understanding how things work under the hood, from memory management in 
 ## Projects
 
 ### Systems and embedded
-- **FPV RC car over 5G** - A radio-controlled car driven through a live video feed over a 5G network, built as a pair with [42Timeo](https://github.com/42Timeo). C++ sender on a Raspberry Pi (V4L2 capture, H.264), RTP transport with forward error correction under GStreamer, Rust receiver, Arduino for the car controls. The repository is not public yet.
+- [Handover-Car (FPV RC car over 5G)](https://github.com/Equoo/Handover-Car) - A radio-controlled car driven through a live video feed over a 5G network, built as a pair with [42Timeo](https://github.com/42Timeo). C++ sender on a Raspberry Pi (V4L2 capture, H.264), RTP transport with forward error correction under GStreamer, Rust receiver, Arduino for the car controls.
 - [Valgrind Breaker](https://github.com/Equoo/valgrind_breaker) - A C library loaded with LD_PRELOAD that makes the N-th allocation fail while Valgrind's memcheck keeps tracking every block, without rebuilding Valgrind. An automatic mode fails each allocation in turn to find leaks and crashes on error paths.
 - [STD Games](https://github.com/Equoo/STDGames) - A game launcher for Linux, started for 42 students: no setup and no login required. Team project that I co-founded. The v2 in progress (branch `dev_v2`) is written in Rust and runs each game sandboxed with bubblewrap, Linux namespaces and overlayfs.
 
