@@ -15,6 +15,7 @@ What I like working on:
 - Embedded Linux and real-time video
 - Performance-oriented design
 - Backend development
+- Assembly && CPU architecture
 
 I enjoy understanding how things work under the hood, from memory management in C to building complete tools from scratch.
 
@@ -33,8 +34,8 @@ Contact: <david.derny@ik.me>
 ### Systems and embedded
 
 - [Handover-Car (FPV RC car over 5G)](https://github.com/Equoo/Handover-Car) - A radio-controlled car driven through a live video feed over a 5G network, built with [42Timeo](https://github.com/42Timeo) and [Amidigov](https://github.com/amidigov). C++ sender on a Raspberry Pi (V4L2 capture, H.264), RTP transport with forward error correction under GStreamer, Rust receiver, Arduino for the car controls.
-- [Valgrind Breaker](https://github.com/Equoo/valgrind_breaker) - A C library loaded with LD_PRELOAD that makes the N-th allocation fail while Valgrind's memcheck keeps tracking every block. An automatic mode fails each allocation in turn to find leaks and crashes on error paths.
-- [STD Games](https://github.com/Equoo/STDGames) - A game launcher for Linux, started for 42 students: no setup and no login required. Team project that I co-founded. The v2 in progress (branch `dev_v2`) is written in Rust and runs each game sandboxed with bubblewrap, Linux namespaces and overlayfs.
+- [Valgrind Breaker](https://github.com/Equoo/valgrind_breaker) - Malloc failure injection on top of Valgrind. Fails each allocation in turn to find leaks and crashes on error paths.
+- [STD Games](https://github.com/Equoo/STDGames) - A Linux game launcher for 42 students: no setup and no login required. Runs each game from distant directory, sandboxed with bubblewrap, Linux namespaces and overlayfs. V2 in progress.
 
 ### Web
 
@@ -42,7 +43,7 @@ Contact: <david.derny@ik.me>
 
 ### 42 Cursus
 
-- [Minishell](https://github.com/Equoo/42-minishell) - A Unix shell in C with pipes, redirections and expansions, built as a pair. I worked on parsing and execution.
+- [Minishell](https://github.com/Equoo/42-minishell) - A Unix shell in C with pipes, redirections and expansions, built as a pair.
 - [Philosophers](https://github.com/Equoo/42-philosophers) - The Dining Philosophers problem in C with POSIX threads: race conditions, mutexes and deadlock prevention.
 - [Cub3D](https://github.com/Equoo/42-cub3d) - A raycasting 3D maze engine in C, inspired by Wolfenstein 3D, built as a pair.
 - [ft_irc](https://github.com/Pulse-rar/ft_irc) - An IRC server in C++98, team project.
