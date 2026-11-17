@@ -33,8 +33,8 @@ Contact: <david.derny@ik.me>
 
 ### Systems and embedded
 
-- [Handover-Car (FPV RC car over 5G)](https://github.com/Equoo/Handover-Car) - A radio-controlled car driven through a live video feed over a 5G network, built with [42Timeo](https://github.com/42Timeo) and [Amidigov](https://github.com/amidigov). C++ sender on a Raspberry Pi (V4L2 capture, H.264), RTP transport with forward error correction under GStreamer, Rust receiver, Arduino for the car controls.
-- [Valgrind Breaker](https://github.com/Equoo/valgrind_breaker) - Malloc failure injection on top of Valgrind. Fails each allocation in turn to find leaks and crashes on error paths.
+- [Handover-Car (FPV RC car over 5G)](https://github.com/Equoo/Handover-Car) - A radio-controlled car driven through a live video feed over a 5G network, built with [42Timeo](https://github.com/42Timeo) and [Amidigov](https://github.com/amidigov).
+- [Valgrind Breaker](https://github.com/Equoo/valgrind_breaker) - Malloc failure injection on top of Valgrind. Fails each allocation in turn to find leaks and crashes on error paths. Tool for 42 students.
 - [STD Games](https://github.com/Equoo/STDGames) - A Linux game launcher for 42 students: no setup and no login required. Runs each game from distant directory, sandboxed with bubblewrap, Linux namespaces and overlayfs. V2 in progress.
 
 ### Web
